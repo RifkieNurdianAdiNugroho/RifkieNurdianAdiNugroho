@@ -31,7 +31,7 @@ Hey i'm Rifkie Nurdian Adi Nugroho,you can call me Rifki and i'm college student
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RifkieNurdianAdiNugroho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rifkinurdian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/linkedin.com/in/rifki-nurdian-adinugroho-4b2175199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/manusiasR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 

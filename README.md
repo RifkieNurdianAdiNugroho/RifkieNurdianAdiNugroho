@@ -1,7 +1,7 @@
 Hi 👋 My name is Rifkie Nurdian AdiNugroho
 ==========================================
 
-UI/UX Enthusiast & Design Graphics
+UI/UX,Design Graphics & FrontEnd Dev
 ---------------------------------
 
 Hey i'm Rifkie Nurdian Adi Nugroho,you can call me Rifki and i'm college student on Polytechnic Negeri Malang

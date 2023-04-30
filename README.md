@@ -9,7 +9,7 @@ Hey i'm Rifkie Nurdian Adi Nugroho,you can call me Rifki and i'm college student
 * 🌍  I'm based in Pasuruan
 * ✉️  You can contact me at [rifkiroar@gmail.com](mailto:rifkiroar@gmail.com)
 * 🧠  I'm learning React,JavaScript,Laravel,PHP
-* 🤝  I'm open to collaborating on UI/UX Design And FrontEnd Dev
+* 🤝  I'm open to collaborating on UI/UX Design And FrontEnd Dev & Project Manager
 
 ### Skills
 
